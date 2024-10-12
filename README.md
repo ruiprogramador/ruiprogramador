@@ -10,9 +10,9 @@
   <h3> I'm 26 years old Full-Stack Developer from Portugal</h3>
 </p>
 
- - 🥀 Learning PHP (Laravel), SQL (PL/SQL)
- 
- - <i>with Laravel, VueJS and 5 others.</i>
+ - 🔭 I’m currently working on Microplásticos, S.A.
+ - 🌱 Learning PHP (Laravel), SQL (PL/SQL) with Laravel, VueJS and 5 others.</i>
+ - 👯 Hardworking, Rigorous, Committed, Fun and Outgoing
 
  - I do fullstack and a bit of everything :heart:
  
@@ -20,10 +20,10 @@
   <h4> Full Stack | Competitive Programming </h4>
    </p>
 
-### - Languages and Tools...
+### - Languages and Tools ...
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> 
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -71,6 +71,10 @@
 <p>
    <a href="https://www.linkedin.com/in/matosrui1998/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
+<p align="center">Don't be shy! 💬 Ask me about</p>
+
+<p align="center">⚡ Thank you very much for reading my profile. ⚡</p>
 
 <!--
 **ruiprogramador/ruiprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
