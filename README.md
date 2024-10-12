@@ -33,6 +33,10 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/frameworks/angular.svg" alt="angular">
+
+   <!-- Git -->
+   <img src="ColoredBadges-master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+
    <!-- Git -->
    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
    <!-- Microsoft -->
