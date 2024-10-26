@@ -1,6 +1,4 @@
-<style>
-.mark{color: red}
-</style>
+<style>.mark{color: red}</style>
 
 <div align="center">
    <h1>Hi there, I'm Rui</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
@@ -106,7 +104,15 @@
 
 <mark class="mark">what is DataBase</mark>
 
-<div markdown="1" align="center">
+<section markdown="1" style="display: flex;">
+   !!! Warning "Is your company, department or team..."
+    * Waiting for solutions ? 
+    
+!!! Tip "How to be more effective "
+    You could do this and that
+</section
+
+<div class="red">
 
    <!-- LeetCode -->
    <a href="https://leetcode.com/u/therdam/"><img src="ColoredBadges-master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px"></a>
