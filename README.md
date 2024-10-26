@@ -23,7 +23,7 @@
 
 <h3>Developer Tech</h3>
 
-#### - Social Networks
+#### - Frameworks
 
 <p>
             
@@ -123,7 +123,7 @@
   <img src="ColoredBadges-master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
 </p>
 
-### - Tools
+#### - Tools
 
 <p>
 
@@ -138,7 +138,8 @@
    <!-- Git -->
    <!-- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"> -->
 
-### - Social Networks
+<h3>Social Networks</h3>
+
 <p>
    <a 
       href="https://www.linkedin.com/in/matosrui1998/"
