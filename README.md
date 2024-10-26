@@ -1,5 +1,5 @@
 <style>
-   .mark{
+   mark{
       color: red;
    }
 </style>
