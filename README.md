@@ -25,7 +25,7 @@
 
 #### - Social Networks
 
-<p align="center">
+<p>
             
    <!-- WPF -->
    <img src="ColoredBadges-master/svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:top; margin:4px"> 
@@ -49,7 +49,7 @@
 
 #### - Languages
 
-<p align="center">
+<p>
 
    <!-- HTML / HTML5 -->
    <img src="ColoredBadges-master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -73,7 +73,7 @@
 
 #### - Databases
 
-<p align="center">
+<p>
 
    <!-- SQL - Oracle -->
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle" style="vertical-align:top; margin:4px">
@@ -85,7 +85,7 @@
 
 #### - Misc
 
-<p align="center">
+<p>
 
    <!-- Desktop -->
    <img src="ColoredBadges-master/svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:4px">
@@ -100,7 +100,7 @@
 
 #### - Services
 
-<p align="center">
+<p>
  <!-- LeetCode -->
  <a href="https://leetcode.com/u/therdam/">
     <img src="ColoredBadges-master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
@@ -125,7 +125,7 @@
 
 ### - Tools
 
-<p align="center">
+<p>
 
    <!-- Visual Studio -->
    <img src="ColoredBadges-master/svg/dev/tools/visualstudio.svg" alt="visualstudio">
