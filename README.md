@@ -23,7 +23,7 @@
 
 <h3>Developer Tech</h3>
 
-### - Frameworks
+#### - Social Networks
 
 <p align="center">
             
@@ -47,7 +47,7 @@
 
 </p>
 
-### - Languages
+#### - Languages
 
 <p align="center">
 
@@ -71,7 +71,7 @@
 
 </p>
 
-### - Databases
+#### - Databases
 
 <p align="center">
 
@@ -83,7 +83,7 @@
 
 </p>
 
-### - Misc
+#### - Misc
 
 <p align="center">
 
@@ -98,8 +98,9 @@
 
 </p>
 
-### - Services
+#### - Services
 
+<div style="display: flex;">
 <p align="center">
 
    <!-- LeetCode -->
@@ -121,6 +122,7 @@
    <img src="ColoredBadges-master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 
 </p>
+</div>
 
 ### - Tools
 
