@@ -100,7 +100,7 @@
 
 #### - Services
 
-<span markdown="1">
+<div markdown="1" align="center">
 
    <!-- LeetCode -->
    <a href="https://leetcode.com/u/therdam/"><img src="ColoredBadges-master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px"></a>
@@ -120,7 +120,7 @@
    <!-- NPM -->
    <img src="ColoredBadges-master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 
-</span>
+</div>
 
 ### - Tools
 
