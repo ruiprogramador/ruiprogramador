@@ -100,55 +100,27 @@
 
 #### - Services
 
-<span style="color:red">text</span>
-
-<div class="d-flex">
-
-   <!-- LeetCode -->
-   <a href="https://leetcode.com/u/therdam/"><img src="ColoredBadges-master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px"></a>
-
-   <!-- HackerRank -->
-   <a href="https://www.hackerrank.com/profile/therdam"><img src="ColoredBadges-master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px"></a>
-
-   <!-- StrataScratch -->
-   <a href="https://platform.stratascratch.com/user/RDAM"><strong>StrataScratch</strong></a>
-
-   <!-- CodeWars -->
-   <a href="https://www.codewars.com/users/TheRDAM"><img src="ColoredBadges-master/svg/dev/services/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px"></a>
-   
-   <!-- OFFICE 365 -->
-   <img src="ColoredBadges-master/svg/dev/services/office_365.svg" alt="office_365" style="vertical-align:top; margin:4px">
-
-   <!-- NPM -->
-   <img src="ColoredBadges-master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-
-</div>
-
-#### - Services
-
-| [<img src="ColoredBadges-master/svg/dev/services/leetcode.svg" alt="leetcode" width="40">](https://leetcode.com/u/therdam/) | [<img src="ColoredBadges-master/svg/dev/services/hackerrank.svg" alt="hackerrank" width="40">](https://www.hackerrank.com/profile/therdam) | [**StrataScratch**](https://platform.stratascratch.com/user/RDAM) | [<img src="ColoredBadges-master/svg/dev/services/codewars.svg" alt="codewars" width="40">](https://www.codewars.com/users/TheRDAM) | <img src="ColoredBadges-master/svg/dev/services/office_365.svg" alt="office_365" width="40"> | <img src="ColoredBadges-master/svg/dev/services/npm.svg" alt="npm" width="40"> |
-|---|---|---|---|---|---|
-
-|     [<img src="ColoredBadges-master/svg/dev/services/leetcode.svg" alt="leetcode" width="120">](https://leetcode.com/u/therdam/) |     [<img src="ColoredBadges-master/svg/dev/services/hackerrank.svg" alt="hackerrank" width="120">](https://www.hackerrank.com/profile/therdam) |     [**StrataScratch**](https://platform.stratascratch.com/user/RDAM) |     [<img src="ColoredBadges-master/svg/dev/services/codewars.svg" alt="codewars" width="120">](https://www.codewars.com/users/TheRDAM) |     <img src="ColoredBadges-master/svg/dev/services/office_365.svg" alt="office_365" width="120"> |     <img src="ColoredBadges-master/svg/dev/services/npm.svg" alt="npm" width="120"> |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
 <p align="center">
+ <!-- LeetCode -->
  <a href="https://leetcode.com/u/therdam/">
     <img src="ColoredBadges-master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
   </a>  
+ <!-- HackerRank -->
  <a href="https://www.hackerrank.com/profile/therdam">
     <img src="ColoredBadges-master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
   </a>  
+ <!-- StrataScratch -->
  <a href="https://platform.stratascratch.com/user/RDAM">
     <strong>StrataScratch</strong>
   </a> 
+ <!-- CodeWars -->
  <a href="https://www.codewars.com/users/TheRDAM">
     <img src="ColoredBadges-master/svg/dev/services/codewars.svg" alt="codewars" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a> 
+ <!-- Office 365 --> 
   <img src="ColoredBadges-master/svg/dev/services/office_365.svg" alt="office_365" style="vertical-align:top; margin:6px 4px">
+ <!-- NPM -->
   <img src="ColoredBadges-master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-
-   
 </p>
 
 ### - Tools
