@@ -23,18 +23,84 @@
 
 <h3>Developer Tech</h3>
 
-<h4>Frameworks</h4>
+### - Frameworks
+
+<p align="center">
+            
+   <!-- WPF -->
+   <img src="ColoredBadges-master/svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:top; margin:4px"> 
+               
+   <!-- Laravel -->
+   <img src="ColoredBadges-master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">  
+               
+   <!-- Bootstrap -->
+   <img src="ColoredBadges-master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px"> 
+         
+   <!-- JQuery -->
+   <img src="ColoredBadges-master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
+            
+   <!-- AngularJS -->
+   <img src="ColoredBadges-master/svg/dev/frameworks/angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">
+            
+   <!-- VueJS -->
+   <img src="ColoredBadges-master/svg/dev/frameworks/vue.svg" alt="vuejs" style="vertical-align:top; margin:4px"> 
+
+</p>
+
+### - Languages
 
 <p align="center">
 
+   <!-- HTML / HTML5 -->
+   <img src="ColoredBadges-master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+   
+   <!-- CSS / CSS3 -->
+   <img src="ColoredBadges-master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+      
+   <!-- SASS -->
+   <img src="ColoredBadges-master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">
+      
+   <!-- JS -->
+   <img src="ColoredBadges-master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+         
+   <!-- PHP -->
+   <img src="ColoredBadges-master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px"> 
+            
+   <!-- C# -->
+   <img src="ColoredBadges-master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"> 
+
+</p>
+
+### - Databases
+
+<p align="center">
+
+   <!-- SQL - Oracle -->
+   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle" style="vertical-align:top; margin:4px">
+
+   <!-- SQL - MySQL -->
+   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="vertical-align:top; margin:4px">
+
+</p>
+
+### - Misc
+
+<p align="center">
+
+   <!-- Desktop -->
+   <img src="ColoredBadges-master/svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:4px">
+
    <!-- Google Chrome -->
    <img src="ColoredBadges-master/svg/dev/misc/chrome.svg" alt="google_chrome" style="vertical-align:top; margin:4px">
-   
-   <!-- OFFICE 365 -->
-   <img src="ColoredBadges-master/svg/dev/services/office_365.svg" alt="office_365" style="vertical-align:top; margin:4px">
+         
+   <!-- Web -->
+   <img src="ColoredBadges-master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px"> 
 
-   <!-- NPM -->
-   <img src="ColoredBadges-master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+</p>
+
+### - Services
+
+<p align="center">
 
    <!-- LeetCode -->
    <a href="https://leetcode.com/u/therdam/"><img src="ColoredBadges-master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px"></a>
@@ -47,58 +113,29 @@
 
    <!-- CodeWars -->
    <a href="https://www.codewars.com/users/TheRDAM"><img src="ColoredBadges-master/svg/dev/services/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px"></a>
+   
+   <!-- OFFICE 365 -->
+   <img src="ColoredBadges-master/svg/dev/services/office_365.svg" alt="office_365" style="vertical-align:top; margin:4px">
+
+   <!-- NPM -->
+   <img src="ColoredBadges-master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+
+</p>
+
+### - Tools
+
+<p align="center">
 
    <!-- Visual Studio -->
    <img src="ColoredBadges-master/svg/dev/tools/visualstudio.svg" alt="visualstudio">
 
    <!-- Visual Studio Code -->
    <img src="ColoredBadges-master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code">
+
+</p>
    
    <!-- Git -->
-   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
-
-   <!-- HTML / HTML5 -->
-   <img src="ColoredBadges-master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-   
-   <!-- CSS / CSS3 -->
-   <img src="ColoredBadges-master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-      
-   <!-- JS -->
-   <img src="ColoredBadges-master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-      
-   <!-- JQuery -->
-   <img src="ColoredBadges-master/svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:4px">
-         
-   <!-- PHP -->
-   <img src="ColoredBadges-master/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
-            
-   <!-- AngularJS -->
-   <img src="ColoredBadges-master/svg/dev/frameworks/angular.svg" alt="angularjs" style="vertical-align:top; margin:4px">
-            
-   <!-- Laravel -->
-   <img src="ColoredBadges-master/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">  
-            
-   <!-- VueJS -->
-   <img src="ColoredBadges-master/svg/dev/frameworks/vue.svg" alt="vuejs" style="vertical-align:top; margin:4px">  
-            
-   <!-- C# -->
-   <img src="ColoredBadges-master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"> 
-            
-   <!-- WPF -->
-   <img src="ColoredBadges-master/svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:top; margin:4px"> 
-               
-   <!-- Bootstrap -->
-   <img src="ColoredBadges-master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px"> 
-
-   <!-- SQL - Oracle -->
-   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle" style="vertical-align:top; margin:4px">
-
-   <!-- SQL - MySQL -->
-   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="vertical-align:top; margin:4px">
-               
-   <!-- Web -->
-   <img src="ColoredBadges-master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px"> 
-</p>
+   <!-- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"> -->
 
 ### - Social Networks
 <p>
