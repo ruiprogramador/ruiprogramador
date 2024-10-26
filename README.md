@@ -1,26 +1,3 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-      <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-      h1 {
-            color: red;
-            animation: mymove 2s infinite;
-      }
-
-      @keyframes mymove {
-            from {
-               color: red;
-            }
-            to {
-               color: yellow;
-            }
-      }
-      </style>
-      <h1>HELLO WORLD!</h1>
-      </div>
-      </foreignObject>
-</svg>
-
 <div align="center">
    <h1>Hi there, I'm Rui</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
@@ -123,17 +100,9 @@
 
 #### - Services
 
-<mark class="mark">what is DataBase</mark>
+<span style="color:red">text</span>
 
-<section markdown="1" style="display: flex;">
-   !!! Warning "Is your company, department or team..."
-    * Waiting for solutions ? 
-    
-!!! Tip "How to be more effective "
-    You could do this and that
-</section
-
-<div class="red">
+<div class="d-flex">
 
    <!-- LeetCode -->
    <a href="https://leetcode.com/u/therdam/"><img src="ColoredBadges-master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px"></a>
