@@ -1,7 +1,5 @@
 <style>
-   mark{
-      color: red;
-   }
+.mark{color: red}
 </style>
 
 <div align="center">
@@ -106,7 +104,7 @@
 
 #### - Services
 
-<mark>what is DataBase</mark>
+<mark class="mark">what is DataBase</mark>
 
 <div markdown="1" align="center">
 
