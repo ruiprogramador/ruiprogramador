@@ -100,7 +100,7 @@
 
 #### - Services
 
-<span style="display: flex !important; justify-content: space-around !important;">
+<span markdown="1">
 
    <!-- LeetCode -->
    <a href="https://leetcode.com/u/therdam/"><img src="ColoredBadges-master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px"></a>
@@ -109,7 +109,7 @@
    <a href="https://www.hackerrank.com/profile/therdam"><img src="ColoredBadges-master/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px"></a>
 
    <!-- StrataScratch -->
-   <a href="https://platform.stratascratch.com/user/RDAM">StrataScratch</a>
+   <a href="https://platform.stratascratch.com/user/RDAM"><strong>StrataScratch</strong></a>
 
    <!-- CodeWars -->
    <a href="https://www.codewars.com/users/TheRDAM"><img src="ColoredBadges-master/svg/dev/services/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px"></a>
