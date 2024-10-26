@@ -100,7 +100,7 @@
 
 #### - Services
 
-<div style="display: flex;">
+<div style="display: flex !important; justify-content: space-around !important;">
 <p align="center">
 
    <!-- LeetCode -->
